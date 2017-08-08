@@ -1,6 +1,6 @@
 Soccer exercise
 ---------------
-Demo available [here](https://bulipol.github.io/Soccer/index.html)
+Demo available [here](https://bulipol.github.io/Soccer/)
 
 Your task is to create an app, which visualizes players' positions on a soccer field. 
 
